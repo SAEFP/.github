@@ -1,6 +1,6 @@
 ### Welcome to the Github Page of the Project  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>:  
 
-### **`Influence of Social Anxiety on Embodied Face Perception Using EEG and VR`**  
+### **`Influence of Social Anxiety on Embodied Face Perception During Affective Social Interactions Using EEG and VR`**  
 
 ### About the Project 🧠: 
 
