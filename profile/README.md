@@ -69,9 +69,8 @@ In the current research, the aim is to use the etee handsets to provide tactile 
 
 <img src="./images/finger-tracking.gif" alt="finger-tracking.gif" width="400"/>
 
-Additionally, The HTC Vive VR headset will be used. 
+Additionally, The Meta Quest Pro headset will be used. 
 
-<img src="./images/htc-vive-headset.jpeg" alt="htc-vive-headset.jpeg" width="200"/>
 
  ----
 ### `3.2 Neural Measures and Physiological Measures:`     
