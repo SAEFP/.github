@@ -1,6 +1,6 @@
 ### Welcome to the Github Page of the Project  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>:  
 
-### **`Influence of Social Anxiety on Embodied Face Perception Using EEG and VR`**  
+### **`Influence of Social Anxiety on Embodied Face Perception During Affective Social Interactions Using EEG and VR`**  
 
 ### About the Project 🧠: 
 
@@ -69,9 +69,8 @@ In the current research, the aim is to use the etee handsets to provide tactile 
 
 <img src="./images/finger-tracking.gif" alt="finger-tracking.gif" width="400"/>
 
-Additionally, The HTC Vive VR headset will be used. 
+Additionally, The Meta Quest Pro headset will be used. Although the Etee controllers and the Meta Quest Pro headset have different tracking systems, we used a method to connect these two distinct systems. The detailed process for connecting the two systems can be found in the [file](https://github.com/orgs/SAEFP/repositories) located in the repositories.
 
-<img src="./images/htc-vive-headset.jpeg" alt="htc-vive-headset.jpeg" width="200"/>
 
  ----
 ### `3.2 Neural Measures and Physiological Measures:`     
