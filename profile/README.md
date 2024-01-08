@@ -73,6 +73,7 @@ Additionally, The Meta Quest Pro headset will be used. Although the Etee control
 
 <img src="./images/meta-quest-pro.webp" alt="meta-quest-pro.webp" width="200"/> 
 <img src="./images/face-tracking.jpg" alt="face-tracking.jpg" width="200"/>
+   
  ----
 ### `3.2 Neural Measures and Physiological Measures:`     
 For the EEG measurements a mobile EEG system (ANT Neuro EegoSports) will be used to gather data. EEG data will be acquired through 32 channels. Lab-streaming-layer (LSL) will be used for sending triggers to mark the onsets of the stimuli and for synchronizing data streams of different recordings and other physiological measures as part of the mobile EEG system such as electrocardiogram (ECG) and galvanic skin response (GSR). 
